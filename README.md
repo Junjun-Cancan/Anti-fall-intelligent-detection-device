@@ -1,4 +1,4 @@
-# Intelligent detection anti-lost device
+# Anti-fall intelligent detection device
 ## 西南交通大学-电机小组
 ## 成员：瞿明俊、徐春茂、吴业迪、柯昌文
 ## 团队特色：敢想、敢说、敢做、能创造。
